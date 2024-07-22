@@ -1,0 +1,17 @@
+form {
+    border-style: solid;
+    border-width: thick;
+    border-color: #ffc107;
+    margin: 30px;
+    background: #fff3cd;
+}
+
+.form-group {
+    margin: 20px;
+}
+
+.message {
+    color: red;
+    font-size: 10px;
+    margin: 0;
+}
